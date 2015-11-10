@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PH_measurement_demo_app</string>
+
+    <string name="intro_app">The measurement of pH in wastewater is an essential step in the process of monitoring water quality. To ensure that you are getting accurate measurements, make sure you have the right equipment and know and follow standard operating procedures.</string>
+    <string name="procedure1_app">Procedures: Calibration and Measurement\n\n1. Consult the user manual for the pH meter for manufacturer’s directions, if any, concerning the order of the buffer solutions.\n\n2. Record the lot numbers, expiration dates, and manufacturer(s) of the buffer solutions. Do not use expired buffer solution.\n\n3. Clean sensor with deionized water before buffering and between calibrating with each solution. Blot—do not rub—sensor dry with laboratory wipe.\n\n4. If there are any air bubbles in the sensor, tap it gently against the side of the beaker.\n\n5. To calibrate, pour enough pH 7 buffer in a 30 ml beaker to cover the electrode reference junction. Agitate slightly and dispose of buffer.\n\n6. Pour 20 to 25 ml of the buffer in the beaker and let sensor remain in buffer for 1 minute. Dispose of buffer.\n\n7. Repeat step 6 and take reading. Meter may not record reading automatically—you may have to enter it manually.\n\n8. Clean sensor with deionized water and perform steps 5-7 with pH buffer 4 and pH buffer 10.\n\n9. Once the meter has been calibrated with all three pH buffers (4, 7, and 10), the meter will provide the (Nernst) slope. It should be between 92 (95-USGS) and 102%.\n\n10. Finally, check calibration with the second-source pH buffer 7. It should give a reading of ± 0.1 from 7.\n\n11. Calibration is complete. Check the user manual to find the recommended wetting solution for the electrode, if the second-source pH buffer is not acceptable.\n\n12. Have the sample to be analyzed within 2°C of the buffer. Follow procedure of step 6 above; sensor must remain in sample long enough for meter to provide reading.\n\n13. Analyze a second sample.</string>
+    <string name="procedure2_app"></string>
+    <string name="cautions_app">ALWAYS\n\nCalibrate before taking pH\n\nRecord the temperature of sample\n\nMake sure temperatures of sample and buffer are within 2 degrees of each other and both are as close to 25°C as possible\n\nHave a problem or need more information? Contact</string>
+    <string name="button_equipment">Equipment</string>
+    <string name="button_procedures">Procedures</string>
+    <string name="button_procedure2">Next</string>
+    <string name="button_cautions">Cautions</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_equipment">Equipment</string>
+    <string name="equipment_app">Equipment\n\npH meter\n\nsensor\n\n30 ml beakers made of either polyethylene or glass\n\nstir plate and stir sticks\n\nbuffer solutions at pHs of 4, 7(2), and 10: the second buffer at 7, the "second-source," can be made by the same manufacturer as the first but must be a different lot, or must be made by a different manufacturer\n\ndeionized water\n\nlaboratory wipes</string>
+    <string name="title_activity_display_procedure1">Procedures</string>
+    <string name="title_activity_display_procedure2">Procedures Continued</string>
+    <string name="title_activity_display_cautions">Cautions</string>
+
+
+
+
+
+
+
+</resources>

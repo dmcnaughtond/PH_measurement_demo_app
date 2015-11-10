@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView android:id="@+id/intro_app"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="@string/intro_app"
+    />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/pale_sky_blue"
+        android:layout_weight="1.0"
+        android:text="@string/button_equipment"
+        android:onClick="displayEquipment" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/light_jade_green"
+        android:layout_weight="1.0"
+        android:text="@string/button_procedures"
+        android:onClick="displayProcedure1" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/slate_blue"
+        android:layout_weight="1.0"
+        android:text="@string/button_cautions"
+        android:onClick="displayCautions" />
+
+
+
+</LinearLayout>
+
